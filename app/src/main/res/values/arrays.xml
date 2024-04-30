@@ -1,0 +1,14 @@
+<resources>
+    <string-array name="tamanhos_camisa">
+        <item>PP</item>
+        <item>P</item>
+        <item>M</item>
+        <item>G</item>
+        <item>EG</item>
+        <item>PP - Babylook</item>
+        <item>P - Babylook</item>
+        <item>M - Babylook</item>
+        <item>G - Babylook</item>
+        <item>EG - Babylook</item>
+    </string-array>
+</resources>
